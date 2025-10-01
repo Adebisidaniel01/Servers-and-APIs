@@ -1,0 +1,11 @@
+{
+"name": "nodejs-servers-apis",
+"version": "1.0.0",
+"description": "Assignment: simple static server + REST API without frameworks",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"author": "",
+"license": "MIT"
+}
